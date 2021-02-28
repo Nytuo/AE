@@ -38,7 +38,7 @@ AsteroidEscapeWinV1FinalPatch1_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.a
 AsteroidEscapeWinV1FinalPatch1_Data\Mono\etc\mono\2.0\machine.config,0,27625
 AsteroidEscapeWinV1FinalPatch1_Data\Mono\etc\mono\2.0\settings.map,0,2618
 AsteroidEscapeWinV1FinalPatch1_Data\Mono\etc\mono\2.0\web.config,0,11686
-AsteroidEscapeWinV1FinalPatch1_Data\Mono\etc\mono\2.0\Browsers\Compat.browser,0,1605
+AsteroidEscapeWinV1FinalPatch1_Data\Mono\etc\mono\2.0\Browsers\Compat.browser,0,1586
 AsteroidEscapeWinV1FinalPatch1_Data\Mono\etc\mono\mconfig\config.xml,0,25817
 AsteroidEscapeWinV1FinalPatch1_Data\Resources\unity default resources,0,3201848
 AsteroidEscapeWinV1FinalPatch1_Data\Resources\unity_builtin_extra,0,418692
